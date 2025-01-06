@@ -14,7 +14,7 @@ This project is a Laravel-based admin panel designed to manage and monitor vario
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/laravel_adminpanel.git
+    git clone https://github.com/erimk240/laravel_adminpanel.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -57,10 +57,7 @@ This project is a Laravel-based admin panel designed to manage and monitor vario
 
 Contributions are welcome! Please submit a pull request or open an issue to discuss any changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries, please contact [yourname@example.com](mailto:yourname@example.com).
+For any inquiries, please contact (mailto:erimardakocak@gmail.com).
